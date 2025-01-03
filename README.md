@@ -40,7 +40,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://static.vecteezy.com/system/resources/previews/051/336/368/non_2x/bootstrap-programming-transparent-logo-free-png.png" alt="bootstrap" width="40" height="40" />
+    <img src="https://static.vecteezy.com/system/resources/previews/051/336/368/non_2x/bootstrap-programming-transparent-logo-free-png.png" alt="bootstrap" width="60" height="60" />
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
@@ -66,10 +66,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsabariya&show_icons=true&locale=en&layout=compact&theme=dark" alt="ankitsabariya" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitsabariya&show_icons=true&locale=en&theme=dark" alt="ankitsabariya" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsabariya&theme=dark" alt="ankitsabariya" />
-</p>
