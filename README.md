@@ -66,6 +66,6 @@
   </a>
 </p>
 
-<div align="center" style="margin-top: 20px;">
+<div align="end" style="margin-top: 20px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsabariya&show_icons=true&locale=en&layout=compact&theme=dark" alt="ankitsabariya" />
 </div>
