@@ -1,4 +1,8 @@
-<img align="center" alt="Top Wallpaper" width="100%" height="300px" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" style="object-fit: cover;">
+<div style="display: flex; justify-content: center;">
+  <img align="center" alt="Top Wallpaper" width="100%" height="300px" 
+       src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" 
+       style="object-fit: contain;">
+</div>
 
 <h1 align="center">Hi 👋, I'm Ankit Sabariya</h1>
 <h3 align="center">🎨 UI Developer | 💻 Full Stack Learner | 🚀 Innovating with Code</h3>
@@ -7,7 +11,7 @@
   **Expert in HTML & CSS** | Skilled in **Bootstrap, Tailwind CSS, and SASS**  
   <br>🛠️ Love crafting responsive and pixel-perfect designs  
   <br>🌟 Winner of **TechWar 2024**: CSS Master & C Programming Competitions  
-  <br>📸 Passionate Photographer (**Sony A7 IV**) and AI Editor  
+  <br>📸 Passionate Photographer and AI Editor  
 </p>
 
 <img align="right" alt="Coding" width="300px" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
@@ -40,7 +44,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://static.vecteezy.com/system/resources/previews/051/336/368/non_2x/bootstrap-programming-transparent-logo-free-png.png" alt="bootstrap" width="60" height="60" />
+    <img src="https://static.vecteezy.com/system/resources/previews/051/336/368/non_2x/bootstrap-programming-transparent-logo-free-png.png" alt="bootstrap" width="40" height="40" />
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
@@ -62,8 +66,6 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsabariya&show_icons=true&locale=en&layout=compact&theme=dark" alt="ankitsabariya" />
-</p>
-
-
+<div align="center" style="margin-top: 20px;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsabariya&show_icons=true&locale=en&layout=compact&theme=dark" alt="ankitsabariya" />
+</div>
