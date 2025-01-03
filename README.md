@@ -1,4 +1,4 @@
-<img align="center" alt="Top Wallpaper" width="100%" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
+<img align="center" alt="Top Wallpaper" width="100%" height="300px" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
 
 <h1 align="center">Hi 👋, I'm Ankit Sabariya</h1>
 <h3 align="center">🎨 UI Developer | 💻 Full Stack Learner | 🚀 Innovating with Code</h3>
