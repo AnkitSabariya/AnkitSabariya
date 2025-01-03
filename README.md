@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center;">
-  <img align="center" alt="Top Wallpaper" width="100%" height="300px" 
+  <img align="center" alt="Top Wallpaper" width="100%" height="500px" 
        src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" 
        style="object-fit: contain;">
 </div>
@@ -14,16 +14,11 @@
 </p>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
-  <img align="right" alt="Coding" width="300px" 
+  <img align="right" alt="Coding" width="500px" 
        src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif" 
        style="margin-left: 10px;">
   <p align="left" style="flex: 1;">
     <img src="https://komarev.com/ghpvc/?username=ankitsabariya&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsabariya" />
-  </p>
-  <p align="left" style="flex: 1;">
-    <a href="https://twitter.com/ankit" target="blank">
-      <img src="https://img.shields.io/twitter/follow/ankit?logo=twitter&style=for-the-badge" alt="ankit" />
-    </a>
   </p>
 </div>
 
