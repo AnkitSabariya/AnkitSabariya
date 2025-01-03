@@ -17,9 +17,6 @@
   <img align="right" alt="Coding" width="300px" 
        src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif" 
        style="margin-left: 10px;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsabariya&show_icons=true&locale=en&layout=compact&theme=dark" alt="ankitsabariya" />
-</div>
   <p align="left" style="flex: 1;">
     <img src="https://komarev.com/ghpvc/?username=ankitsabariya&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsabariya" />
   </p>
@@ -67,4 +64,6 @@
   </a>
 </p>
 
-
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;"">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsabariya&show_icons=true&locale=en&layout=compact&theme=dark" alt="ankitsabariya" />
+</div>
