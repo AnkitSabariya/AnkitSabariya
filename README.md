@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm AnkitSabariya</h1>
- <h4 align="center" >🎨 UI Developer | 💻 Full Stack Learner |🚀 Innovating with Code</h4>
+ <h4 align="center" >🎨 UI Developer | 💻 Full Stack Learner | 🚀 Innovating with Code</h4>
 
 - 🛠️ Love crafting responsive and pixel-perfect designs  
 - 🏆 Winner of **TechWar 2024
@@ -12,14 +12,14 @@
   <a href="https://github.com/AnkitSabariya">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-   <a href="[https://www.instagram.com/axif_taj](https://www.instagram.com/ankit_.612/)">
+   <a href="https://www.instagram.com/ankit_.612/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://fb.com/aaxiftaj">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Facebook Badge"/>
+   <a href="[https://fb.com/aaxifta](https://discord.com/channels/641298911377621012/641298912832913429)j">
+    <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
    <a href="https://twitter.com/AnkitSabariya">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge"/>
   </a>
 </div>
 
