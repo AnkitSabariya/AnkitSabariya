@@ -9,16 +9,16 @@
   
 ### 💬 Connect with me :
 <div id="badges">
-  <a href="https://github.com/AnkitSabariya">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  <a href="https://github.com/AnkitSabariya" target="_blank" >
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black"  alt="Github Badge"/>
   </a>
-   <a href="https://www.instagram.com/ankit_.612/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+   <a href="https://www.instagram.com/ankit_.612/" target="_blank" >
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"  alt="Instagram Badge"/>
   </a>
-   <a href="[https://fb.com/aaxifta](https://discord.com/channels/641298911377621012/641298912832913429)j">
+   <a href="https://discord.com/channels/641298911377621012/641298912832913429" target="_blank" >
     <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-   <a href="https://twitter.com/AnkitSabariya">
+   <a href="https://twitter.com/AnkitSabariya" target="_blank" >
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge"/>
   </a>
 </div>
