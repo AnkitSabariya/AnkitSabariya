@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/AnkitSabariya/AnkitSabariya/blob/main/ok.gif" width="100%" height="100%" alt="Github Banner"/>
+<img src="https://github.com/AnkitSabariya/AnkitSabariya/blob/main/new.mp4" width="100%" height="100%" alt="Github Banner"/>
 </div>
  <h1 align="center">Hi 👋, I'm AnkitSabariya</h1>
  <h4 align="center" >🎨 UI Developer | 💻 Full Stack Learner | 🚀 Innovating with Code</h4>
