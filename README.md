@@ -1,7 +1,7 @@
 <div align="center">
- <video autoplay loop muted playsinline>
-    <source src="https://github.com/AnkitSabariya/AnkitSabariya/blob/main/ok.gif" type="video/mp4">
-  </video>
+
+    <img src="https://github.com/AnkitSabariya/AnkitSabariya/blob/main/ok.gif"/>
+
 </div>
  <h1 align="center">Hi 👋, I'm AnkitSabariya</h1>
  <h4 align="center" >🎨 UI Developer | 💻 Full Stack Learner | 🚀 Innovating with Code</h4>
