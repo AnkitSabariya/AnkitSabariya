@@ -1,5 +1,5 @@
 <div align="center">
-     <img src="https://raw.githubusercontent.com/AnkitSabariya/AnkitSabariya/main/ok.gif" alt="Profile GIF"> 
+     <img src="https://raw.githubusercontent.com/AnkitSabariya/AnkitSabariya/main/ok.gif" alt="Profile GIF" style="object-fit: cover;" > 
 </div>
  <h1 align="center">Hi 👋, I'm AnkitSabariya</h1>
  <h4 align="center" >🎨 UI Developer | 💻 Full Stack Learner | 🚀 Innovating with Code</h4>
