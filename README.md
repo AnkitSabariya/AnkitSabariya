@@ -1,7 +1,6 @@
 <div align="center">
  <video autoplay loop muted playsinline>
-    <source src="your-gif-video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+    <source src="https://github.com/AnkitSabariya/AnkitSabariya/blob/main/ok.gif" type="video/mp4">
   </video>
 </div>
  <h1 align="center">Hi 👋, I'm AnkitSabariya</h1>
