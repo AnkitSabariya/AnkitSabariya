@@ -1,5 +1,8 @@
 <div align="center">
-<img src="https://www.canva.com/design/DAGbNjokLS8/XJiG9YdQZJ0yMVcTV6jvhA/watch?utm_content=DAGbNjokLS8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5c10e1ee01" width="100%" height="100%" alt="Github Banner"/>
+ <video autoplay loop muted playsinline>
+    <source src="your-gif-video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
  <h1 align="center">Hi 👋, I'm AnkitSabariya</h1>
  <h4 align="center" >🎨 UI Developer | 💻 Full Stack Learner | 🚀 Innovating with Code</h4>
