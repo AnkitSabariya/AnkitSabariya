@@ -1,8 +1,9 @@
-<div align="center">
-     <img src="https://raw.githubusercontent.com/AnkitSabariya/AnkitSabariya/main/ok.gif" alt="Profile GIF" style="object-fit: cover;" > 
-</div>
+![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
  <h1 align="center">Hi 👋, I'm AnkitSabariya</h1>
- <h4 align="center" >🎨 UI Developer | 💻 Full Stack Learner | 🚀 Innovating with Code</h4>
+ <div align="center">
+  <img  src="https://readme-typing-svg.herokuapp.com/?lines=🎨+UI+Developer|;💻+Full+Stack+Learner;🚀+Innovating+with+Code;&color=teal&center=true"  />
+ </div>
+
 
 - 🛠️ Love crafting responsive and pixel-perfect designs  
 - 🏆 Winner of **TechWar 2024
@@ -29,7 +30,7 @@
 
 
 ### 🌐 Languages and 🛠️ Tools :
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,github,git,c,vercel,netlify&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,github,git,c&perline=5)](https://skillicons.dev)
 
 ### 🎬  Editing in :
 [![My Skills](https://skillicons.dev/icons?i=pr,ps&perline=5)](https://skillicons.dev)
