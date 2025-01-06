@@ -1,5 +1,5 @@
-![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
- <h1 align="center" id="h1">
+![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+ <h1 align="center"  id="h1">
     Hi 
     <a href="#h1" target="_blank" rel="noreferrer">
         <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="42" />
@@ -10,7 +10,7 @@
     </a>
 </h1>
  <div align="center">
-  <img  src="https://readme-typing-svg.herokuapp.com/?lines=🎨+UI+Developer|;💻+Full+Stack+Learner;🚀+Innovating+with+Code;&color=teal&center=true"  />
+  <img  src="https://readme-typing-svg.herokuapp.com/?lines=🎨+UI+Developer|;💻+Full+Stack+Learner|;🚀+Innovating+with+Code|;&color=teal&center=true"  />
  </div>
 
 
