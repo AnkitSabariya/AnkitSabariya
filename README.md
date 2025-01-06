@@ -1,5 +1,14 @@
 ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
- <h1 align="center">Hi 👋, I'm AnkitSabariya</h1>
+ <h1 align="center" id="h1">
+    Hi 
+    <a href="#h1" target="_blank" rel="noreferrer">
+        <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="42" />
+    </a>, 
+    <span>I'm Ankit Sabariya</span>
+    <a href="#h1" target="_blank" rel="noreferrer">
+        <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="36" />
+    </a>
+</h1>
  <div align="center">
   <img  src="https://readme-typing-svg.herokuapp.com/?lines=🎨+UI+Developer|;💻+Full+Stack+Learner;🚀+Innovating+with+Code;&color=teal&center=true"  />
  </div>
@@ -12,20 +21,17 @@
   
   
 ### 💬 Connect with me :
-<div id="badges">
-  <a href="https://github.com/AnkitSabariya" target="_blank">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-  <a href="https://www.instagram.com/ankit_.612/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://discord.com/channels/641298911377621012/641298912832913429" target="_blank">
-    <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-  <a href="https://twitter.com/AnkitSabariya" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://www.linkedin.com/in/mr-ankit-8a561b30a/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" /></a></th>
+            <th><a href="https://www.instagram.com/ankit_.612/" target="_blank"><img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" alt="Instagram" height="34" width="34" /></a></th>
+            <th><a href="mailto:surojitmondalit@gmail.com?subject=From%20GitHub" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="36" width="34" /></a></th>
+         <th><a href="https://discord.com/channels/641298911377621012/641298912832913429" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" alt="Discord" height="36" width="34" /></a></th>
+        </tr>
+    </thead>
+</table>
+
 
 
 
