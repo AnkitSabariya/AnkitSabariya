@@ -36,7 +36,7 @@
 
 
 ### 🌐 Languages and 🛠️ Tools :
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,github,git,c,cpp,figma&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma,bootstrap,tailwind,sass,github,git,c,cpp,&perline=5)](https://skillicons.dev)
 
 ### 🎬  Editing in :
 [![My Skills](https://skillicons.dev/icons?i=pr,ps&perline=5)](https://skillicons.dev)
