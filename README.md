@@ -41,9 +41,19 @@
 ### 🎬  Editing in :
 [![My Skills](https://skillicons.dev/icons?i=pr,ps&perline=5)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitSabariya&show_icons=true&theme=dark)
+## Github stats 📊
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSabariya&theme=dark)
 
+<details>
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Mr Ankit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AnkitSabariya&show_icons=true&count_private=true&theme=dark&hide_border=true" height="192px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Mr Ankit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSabariya&langs_count=8&layout=compact&theme=dark&hide_border=true" height="192px"/>
+  </a>
+  <br/>
+</details>
 
 
