@@ -21,7 +21,7 @@
   
   
 ### 💬 Connect with me :
-<table>
+<table >
     <thead>
         <tr>
             <th><a href="https://www.linkedin.com/in/mr-ankit-8a561b30a/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" /></a></th>
@@ -36,10 +36,11 @@
 
 
 ### 🌐 Languages and 🛠️ Tools :
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,figma,bootstrap,tailwind,github,git,c,cpp,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,bootstrap,tailwind,git,github,figma,c,cpp&perline=6)](https://skillicons.dev)
 
-### 🎬  Editing in :
+### 🎬 Editing in :
 [![My Skills](https://skillicons.dev/icons?i=pr,ps&perline=5)](https://skillicons.dev)
+
 
 ## Github stats 📊
 
