@@ -1,4 +1,7 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png">
+</p>
  <h1 align="center"  id="h1">
     Hi 
     <a href="#h1" target="_blank" rel="noreferrer">
