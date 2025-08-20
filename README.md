@@ -1,8 +1,9 @@
 
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" width="80%">
 </p>
- <h1 align="center"  id="h1">
+
+ <h2 align="center"  id="h1">
     Hi 
     <a href="#h1" target="_blank" rel="noreferrer">
         <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="42" />
@@ -11,7 +12,7 @@
     <a href="#h1" target="_blank" rel="noreferrer">
         <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="36" />
     </a>
-</h1>
+</h2>
  <div align="center">
   <img  src="https://readme-typing-svg.herokuapp.com/?lines=🎨+UI+Developer|;💻+Full+Stack+Learner|;🚀+Innovating+with+Code|;&color=teal&center=true"  />
  </div>
