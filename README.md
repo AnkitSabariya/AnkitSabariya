@@ -23,7 +23,6 @@
 - 📸 Passionate Photographer and Editor
 - 🎯 Skilled in **AI tools**, **Photoshop**, and **Canva** for creative designs.
   
-  
 ### 💬 Connect with me :
 <table >
     <thead>
@@ -36,11 +35,64 @@
     </thead>
 </table>
 
-
-
-
 ### 🌐 Languages and 🛠️ Tools :
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,bootstrap,tailwind,git,github,figma,c,cpp&perline=6)](https://skillicons.dev)
+> Tools and technologies that I have worked with and am interested in
+
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" />
+    <br>HTML
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
+    <br>CSS
+  </td>
+  <td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+    <br>Javascript
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="48" height="48" />
+    <br>jQuery
+  </td>
+  <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+    <br>React
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="47" height="47" />
+    <br>Bootstrap
+  </td>
+
+</tr>
+<tr>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
+    <br>Tailwind
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+    <br>Git
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
+    <br>GitHub
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48" />
+    <br>Figma
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=c" alt="C" width="47" height="47" />
+    <br>C
+  </td>
+  <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
+    <br>C++
+  </td>
+</tr>
+</table>
 
 ### 🎬 Editing in :
 [![My Skills](https://skillicons.dev/icons?i=pr,ps&perline=5)](https://skillicons.dev)
