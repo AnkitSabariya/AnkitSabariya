@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" width="90%">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" width="70%">
 </p>
 
  <h1 align="center"  id="h1">
