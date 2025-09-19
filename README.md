@@ -61,6 +61,10 @@
     <br>React
   </td>
   <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Bootstrap" width="47" height="47" />
+    <br>firebase
+  </td>
+    <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="47" height="47" />
     <br>Bootstrap
   </td>
